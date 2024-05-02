@@ -1,4 +1,3 @@
-// gcc -std=c99 -Wall -Wextra -Wpedantic -Wconversion -o vier vier-op-een-rij.c game_logica.c cpu_logica.c
 #include "cpu_logica.h"
 #include "game_logica.h"
 #include "main.h"
